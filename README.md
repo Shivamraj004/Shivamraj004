@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Shivam Raj
 
-<!--
-**Shivamraj004/Shivamraj004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Engineering Student
+- Software Developer Intern @ Stepin Solutions and IT Services Pvt.Ltd.
+- Passionate about Software Development & AI
+- Gandhinagar, Gujarat, India
 
-Here are some ideas to get you started:
+  ## Currently Learning
+  - Next.js
+  - JavaScript
+  - SQL
+  - Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+## Career Goal
+To become a Software Engineer who builds scalable, real-world applications while continuously learning modern technologies.
+
+## Current Focus
+- Building real-world projects
+- Learning modern web develpment
+- Improving problem-solving skills
+- Exploring AI and Software Engineering
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/shivam-raj-3a9100284/
